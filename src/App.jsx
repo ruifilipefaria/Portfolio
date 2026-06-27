@@ -59,7 +59,7 @@ const data = {
     { title: "An ordinary farmer...", category: "Commentary", year: "2026", duration: "9:53", views: "311", src: "https://www.youtube.com/watch?v=Tg_o6ZmCyRg&t=122s", thumb: "" },
     { title: "Por Que tu odio hacia Emilia Clarke...", category: "Commentary", year: "2026", duration: "12:50", views: "4", src: "https://www.youtube.com/watch?v=SHj42FFciTw", thumb: "" },
     { title: "Trading 212- Practice", category: "Highlight", year: "2026", duration: "0:14", views: "3", src: "https://youtu.be/G9FtJPgcxaQ", thumb: "" },
-    { title: "CodeTheCure", category: "Trial", year: "2026", duration: "0:31", views: "", src: "https://youtu.be/_mD7-1aADTo", thumb: "" },
+    { title: "CodeTheCure", category: "Trial", year: "2026", duration: "0:31", views: "5", src: "https://youtu.be/_mD7-1aADTo", thumb: "" },
     { title: "Editing Ad", category: "Highlight", year: "2025", duration: "0:31", views: "8", src: "https://youtu.be/wLGQ85krcq8", thumb: "" },
     { title: "Coming Soon", category: "N/A", year: "2026", duration: "N/A", views: "N/A", src: "", thumb: "" },
     { title: "Coming Soon", category: "N/A", year: "2026", duration: "N/A", views: "N/A", src: "", thumb: "" },
