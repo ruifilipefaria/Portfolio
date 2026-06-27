@@ -43,7 +43,7 @@ const data = {
   ],
   creators: [
   { name: "La Crónica de Guns", handle: "@gunsaudionovelas2806", avatar: "https://yt3.googleusercontent.com/D1yYu3iTK8-IU5d5OX4Nx9YOxKd_-2e3fGCrgCIwePFpx9trfd8gJu6rl-RukO1JOlWhIuwxYg=s160-c-k-c0x00ffffff-no-rj", subs: "13.2K", channelUrl: "https://www.youtube.com/@gunsaudionovelas2806" },
-  { name: "PLACEHOLDER", handle: "@PLACEHOLDER", avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY62vsraRt8wxfs4DT1uZjGGbbCZuN9rJ8Pw&s",  subs: "0",  channelUrl: "#" },
+  { name: "El Analista Loco", handle: "@ElAnalistaLoco", avatar: "https://yt3.googleusercontent.com/WssgymrNbmzP1xCVu7litWXSuDOutbxw_gYXsf8V-ebgzD5R0lMHimmK04NIgwiQgfiIeZcJyw=s160-c-k-c0x00ffffff-no-rj",  subs: "649",  channelUrl: "https://www.youtube.com/@ElAnalistaLoco" },
   { name: "PLACEHOLDER", handle: "@PLACEHOLDER", avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY62vsraRt8wxfs4DT1uZjGGbbCZuN9rJ8Pw&s",  subs: "0",  channelUrl: "#" },
   { name: "PLACEHOLDER", handle: "@PLACEHOLDER", avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY62vsraRt8wxfs4DT1uZjGGbbCZuN9rJ8Pw&s",  subs: "0",  channelUrl: "#" },
   { name: "PLACEHOLDER", handle: "@PLACEHOLDER", avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY62vsraRt8wxfs4DT1uZjGGbbCZuN9rJ8Pw&s",  subs: "0",  channelUrl: "#" },
@@ -59,7 +59,7 @@ const data = {
     { title: "An ordinary farmer...", category: "Client Work", year: "2026", duration: "9:53", views: "266", src: "https://www.youtube.com/watch?v=Tg_o6ZmCyRg&t=122s", thumb: "" },
     { title: "Practice Highlight", category: "Highlight", year: "2026", duration: "0:24", views: "N/A", src: "https://youtu.be/wLGQ85krcq8", thumb: "" },
     { title: "Practice Highlight- Trading 212", category: "Highlight", year: "2026", duration: "0:14", views: "N/A", src: "https://youtu.be/G9FtJPgcxaQ", thumb: "" },
-    { title: "Coming Soon", category: "N/A", year: "2026", duration: "N/A", views: "N/A", src: "", thumb: "" },
+    { title: "Por Que tu odio hacia Emilia Clarke es exactamente lo que Marvel quiere", category: "Commentary", year: "2026", duration: "12:50", views: "4", src: "https://www.youtube.com/watch?v=SHj42FFciTw", thumb: "" },
     { title: "Coming Soon", category: "N/A", year: "2026", duration: "N/A", views: "N/A", src: "", thumb: "" },
     { title: "Coming Soon", category: "N/A", year: "2026", duration: "N/A", views: "N/A", src: "", thumb: "" },
     { title: "Coming Soon", category: "N/A", year: "2026", duration: "N/A", views: "N/A", src: "", thumb: "" },
@@ -96,7 +96,7 @@ const data = {
   ],
   testimonials: [
     { quote: "This is epic, honestly", channel: "La Crónica de Guns", subs: "13.2K" },
-    { quote: "Working on it...", channel: "Working on it...", subs: "—" },
+    { quote: "Perfect", channel: "El Analista Lo", subs: "649" },
     { quote: "Working on it...", channel: "Working on it...", subs: "—" },
     { quote: "Working on it...", channel: "Working on it...", subs: "—" },
     { quote: "Working on it...", channel: "Working on it...", subs: "—" },
